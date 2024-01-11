@@ -2,6 +2,8 @@
 
 int main()
 {
-    printf("Hello World");
+    int age = 25;
+    float pi = 3.14;
+    char grade = 'A';
     return 0;
 }
