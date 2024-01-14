@@ -15,5 +15,9 @@ int main()
     int age = 25;
     float pi = 3.14;
     char grade = 'A';
+
+    int x = 5, y = 6, z = 50;
+    printf("%d", x + y + z);
+
     return 0;
 }
