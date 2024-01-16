@@ -5,5 +5,6 @@ int main()
     int age = 25;
     float pi = 3.14;
     char grade = 'A';
+    printf(grade);
     return 0;
 }
