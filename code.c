@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h>
 // Create variables
 
 int main()
@@ -18,6 +19,10 @@ int main()
 
     int x = 5, y = 6, z = 50;
     printf("%d", x + y + z);
+
+    bool isProgrammingFun = true;
+    bool isFishTasty = false;
+
     /*
 
     Operator 	        Name 	        Description 	                                                  Example
