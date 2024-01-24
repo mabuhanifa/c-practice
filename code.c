@@ -23,6 +23,9 @@ int main()
     bool isProgrammingFun = true;
     bool isFishTasty = false;
 
+    int time = 20;
+    (time < 18) ? printf("Good day.") : printf("Good evening.");
+
     /*
 
     Operator 	        Name 	        Description 	                                                  Example
@@ -36,6 +39,5 @@ int main()
 
 
     */
-    printf(grade);
     return 0;
 }
