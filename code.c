@@ -8,6 +8,9 @@ int main()
     float myFloatNum = 5.99; // Floating point number
     char myLetter = 'D';     // Character
 
+    int myNumbers[] = {25, 50, 75, 100};
+    printf("%d", myNumbers[0]);
+
     // Print variables
     printf("%d\n", myNum);
     printf("%f\n", myFloatNum);
