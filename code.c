@@ -11,6 +11,9 @@ int main()
     int myNumbers[] = {25, 50, 75, 100};
     printf("%d", myNumbers[0]);
 
+    char greetings[] = "Hello World!";
+    printf("%c", greetings[0]);
+
     // Print variables
     printf("%d\n", myNum);
     printf("%f\n", myFloatNum);
