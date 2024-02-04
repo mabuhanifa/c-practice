@@ -12,6 +12,8 @@ struct Books
 
 int main()
 {
+    const int LENGTH = 10;
+
     int myNum = 5;           // Integer (whole number)
     float myFloatNum = 5.99; // Floating point number
     char myLetter = 'D';     // Character
