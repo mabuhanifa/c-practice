@@ -10,6 +10,8 @@ struct Books
     int book_id;
 } book;
 
+int g;
+
 int main()
 {
     const int LENGTH = 10;
